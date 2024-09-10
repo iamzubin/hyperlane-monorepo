@@ -1,5 +1,16 @@
 # @hyperlane-xyz/core
 
+## 5.2.0
+
+### Minor Changes
+
+- 203084df: Added sdk support for Stake weighted ISM
+- 445b6222: ArbL2ToL1Ism handles value via the executeTransaction branch
+
+### Patch Changes
+
+- @hyperlane-xyz/utils@5.2.0
+
 ## 5.1.0
 
 ### Minor Changes
